@@ -1,8 +1,8 @@
 {
   "f_upt": true,
-  "ntw_ver": "24.0.0",
-  "ntw_cod": 24,
-  "ntw_des": "what's new: \n • testing to 24",
+  "ntw_ver": "23.0.0",
+  "ntw_cod": 23,
+  "ntw_des": "what's new: \n • All issues fixed",
   "ntw_url":"https://google.com",
 
   "ntv_ver": "8.0",
