@@ -1,12 +1,18 @@
 {
   "f_upt": true,
   "ntw_ver": "3.1",
-  "ntw_cod": 5,
+  "ntw_cod": 320,
   "ntw_des": "what's new: \n • all issue fixed",
+  "ntw_url":"https://google.com",
+
   "ntv_ver": "3.1",
-  "ntv_cod": 3,
+  "ntv_cod": 320,
   "ntv_des": "what's new: \n • all issue fixed",
+  "ntv_url":"https://google.com",
+
   "nspt_ver": "3.1",
-  "nspt_cod": 7,
-  "nspt_des": "what's new: \n • all issue fixed"
+  "nspt_cod": 320,
+  "nspt_des": "what's new: \n • all issue fixed",
+  "nspt_url": "https://google.com",
+  "website_url": "https://netmovie.site"
 }
