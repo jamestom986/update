@@ -3,7 +3,7 @@
   "ntw_ver": "23.0.0",
   "ntw_cod": 23,
   "ntw_des": "what's new: \n • All issues fixed",
-  "ntw_url":"https://google.com",
+  "ntw_url":"https://github.com/jamestom986/Netmovie/releases/download/ntw-23.0.0/NetWatch.apk",
 
   "ntv_ver": "7.0",
   "ntv_cod": 10,
@@ -13,6 +13,6 @@
   "nspt_ver": "31",
   "nspt_cod": 30,
   "nspt_des": "what's new: \n • all issue fixed",
-  "nspt_url": "https://google.com",
+  "nspt_url": "https://github.com/jamestom986/Netmovie/releases/download/nspt-v31/NetSports.apk",
   "website_url": "https://netmovie.site"
 }
