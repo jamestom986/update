@@ -20,6 +20,16 @@
   "nthb_cod": 83,
   "nthb_des": "what's new: \n • Servers Updated! \n • Smooth Ui!",
   "nthb_url": "https://github.com/jamestom986/Netmovie/releases/download/Nthub2.2/NetHub_2.2.apk",
-  "website_url": "https://netmovie.site"
+  "website_url": "https://netmovie.site",
+
+"ntanmo_cod" : 1,
+"ntanmo_des" : "NetAnimo testing positive",
+"ntanmo_url" : "animo.netmovie.site",
+"ntanmo_ver" : "1.0",
+
+"ntdrma_cod" : 2,
+"ntdrma_des" : "netdrama testing positive",
+"ntdrma_url" :  "k.netmovie.site",
+"ntdrma_ver" : "2.0"
 
 }
