@@ -30,6 +30,18 @@
 "ntdrma_cod" : 1,
 "ntdrma_des" : "netdrama testing positive",
 "ntdrma_url" :  "https://github.com/jamestom986/Netmovie/releases/download/Kdrma-1.1/NetDrama-1.1.apk",
-"ntdrma_ver" : "2.0"
+"ntdrma_ver" : "2.0",
+
+"netmovie_ver": "5.0",
+"netmovie_url": "app link we update here",
+"netmovie_cod": 2,
+"netmovie_des": "netmovie testing app",
+
+"nethome_ver": "5.0",
+"nethome_url": "app link we update here",
+"nethome_cod": 2,
+"nethome_des": "nethome testing app",
+
+
 
 }
